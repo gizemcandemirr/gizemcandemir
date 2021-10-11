@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Gizem
 #### I'm from Turkey, and I develop on Design and Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui, ux, and design general.
 ![I'm from Turkey, and I develop on Design and Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui, ux, and design general.](https://gizemcandemir.com.tr/images/portfolio/bannergithub.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+You can check out my website https://gizemcandemir.com.tr/ or https://www.youtube.com/channel/UCiR33IirpRI4T5L-gUpaLhA
 
 Skills:  REACT / JS / HTML / CSS / MVC
 
@@ -16,9 +15,5 @@ Skills:  REACT / JS / HTML / CSS / MVC
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhndsbgyn)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhndsbgyn&show_icons=true)  
-
-   You can check out my website https://gizemcandemir.com.tr/ or https://www.youtube.com/channel/UCiR33IirpRI4T5L-gUpaLhA
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhndsbgyn)](https://github.com/anuraghazra/github-readme-stats)
