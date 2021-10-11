@@ -19,8 +19,6 @@ Skills:  REACT / JS / HTML / CSS / MVC
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhndsbgyn&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mhndsbgyn)  
-
-![Profile views](https://gpvc.arturio.dev/mhndsbgyn)   You can check out my website https://gizemcandemir.com.tr/ or https://www.youtube.com/channel/UCiR33IirpRI4T5L-gUpaLhA
+   You can check out my website https://gizemcandemir.com.tr/ or https://www.youtube.com/channel/UCiR33IirpRI4T5L-gUpaLhA
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhndsbgyn)](https://github.com/anuraghazra/github-readme-stats)
