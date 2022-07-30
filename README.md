@@ -5,8 +5,7 @@ You can check out my website https://gizemcandemir.com.tr/ or https://www.youtub
 
 Skills:  REACT / NEXTJS / Redux / TS / JS / HTML / CSS / MVC
 
-- 🔭 I’m currently working at e commerce company 
-- 🌱 I’m currently learning and devoloping React,
+- 🌱 I’m currently learning and devoloping React and React Native,
 - 📫 How to reach me: info@gizemcandemir.com.tr 
 
 
