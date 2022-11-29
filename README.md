@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Gizem
-#### I'm from Turkey, and I develop on Design and Web Development. I really enjoy learning languages and frameworks like React , as well as work in Wordpress. I also enjoy wireframing, ui, ux, and design general.
+#### I'm at Ankara, and I develop Web Development. I really enjoy learning languages and frameworks like React , as well as work in Wordpress. I also enjoy wireframing, ui, ux, and design general.
 
 You can check out my website https://gizemcandemir.com.tr/ or https://www.youtube.com/channel/UCiR33IirpRI4T5L-gUpaLhA
 
-Skills:  REACT / NEXTJS / Redux / TS / JS / HTML / CSS / MVC
+Skills:  React / Vue / Redux / TS / JS / HTML / CSS 
 
 - 🌱 I’m currently learning and devoloping React and React Native,
 - 📫 How to reach me: info@gizemcandemir.com.tr 
